@@ -1,1 +1,2 @@
-This repo has individual README.md files in client and serve folder.
+
+##This repo contains separate README.md files in the client and server folders.
